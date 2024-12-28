@@ -1,0 +1,1 @@
+This repository demonstrates a common issue encountered when using catch-all routes ('/*') in React Router v6, specifically when dealing with nested routes. The problem arises when the catch-all route unintentionally intercepts requests meant for more specific nested routes. This example shows the problem and how to fix it.
